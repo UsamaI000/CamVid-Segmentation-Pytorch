@@ -32,15 +32,11 @@ Following configurations were used for final model training.
 ## Training Results
 The plot for Training of model is shown below.
    <p> The Loss Curve during Training </p>
-   <br/>
-   <p align="center"> <img width=500 height= 200 src="https://github.com/UsamaI000/CamVid-Segmentation-Pytorch/blob/master/images/train_orig.png"> </p>
-   <br/>
+   <p align="center"> <img width=500 height= 200 src="https://github.com/UsamaI000/CamVid-Segmentation-Pytorch/blob/master/images/train_loss.png"> </p>
    <p> The Original Images were </p>
    <p align="left"> <img width=350 height= 150 src="https://github.com/UsamaI000/CamVid-Segmentation-Pytorch/blob/master/images/train_orig.png"> </p>
-   <br/>
    <p> The Original Masks were </p>
    <p align="left"> <img width=350 height= 150 src="https://github.com/UsamaI000/CamVid-Segmentation-Pytorch/blob/master/images/train_mask.png"> </p>
-   <br/>
    <p> The Predicted Masks were </p>
    <p align="left"> <img width=350 height= 150 src="https://github.com/UsamaI000/CamVid-Segmentation-Pytorch/blob/master/images/train_pred.png"> </p>
    
@@ -49,10 +45,8 @@ The plot for Training of model is shown below.
 The plot for Test predictions of model are shown below.
    <p> The Original Images were </p>
    <p align="left"> <img width=400 height= 175 src="https://github.com/UsamaI000/CamVid-Segmentation-Pytorch/blob/master/images/test_orig.png"> </p>
-   <br/>
    <p> The Original Masks were </p>
    <p align="left"> <img width=400 height= 150 src="https://github.com/UsamaI000/CamVid-Segmentation-Pytorch/blob/master/images/test_mask.png"> </p>
-   <br/>
    <p> The Predicted Masks were </p>
    <p align="left"> <img width=400 height= 150 src="https://github.com/UsamaI000/CamVid-Segmentation-Pytorch/blob/master/images/test_pred.png"> </p>
    
