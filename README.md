@@ -33,33 +33,27 @@ Following configurations were used for final model training.
 The plot for Training of model is shown below.
    <p> The Loss Curve during Training </p>
    <br/>
-   <p align="center"> <img width=400 height= 175 src="https://github.com/UsamaI000/CamVid-Segmentation-Pytorch/blob/master/images/train_orig.png"> </p>
+   <p align="center"> <img width=500 height= 200 src="https://github.com/UsamaI000/CamVid-Segmentation-Pytorch/blob/master/images/train_orig.png"> </p>
    <br/>
    <p> The Original Images were </p>
-   <br/>
-   <p align="center"> <img width=400 height= 175 src="https://github.com/UsamaI000/CamVid-Segmentation-Pytorch/blob/master/images/train_orig.png"> </p>
+   <p align="left"> <img width=350 height= 150 src="https://github.com/UsamaI000/CamVid-Segmentation-Pytorch/blob/master/images/train_orig.png"> </p>
    <br/>
    <p> The Original Masks were </p>
-   <br/>
-   <p align="center"> <img width=400 height= 175 src="https://github.com/UsamaI000/CamVid-Segmentation-Pytorch/blob/master/images/train_mask.png"> </p>
+   <p align="left"> <img width=350 height= 150 src="https://github.com/UsamaI000/CamVid-Segmentation-Pytorch/blob/master/images/train_mask.png"> </p>
    <br/>
    <p> The Predicted Masks were </p>
-   <br/>
-   <p align="center"> <img width=400 height= 150 src="https://github.com/UsamaI000/CamVid-Segmentation-Pytorch/blob/master/images/train_pred.png"> </p>
+   <p align="left"> <img width=350 height= 150 src="https://github.com/UsamaI000/CamVid-Segmentation-Pytorch/blob/master/images/train_pred.png"> </p>
    
 
 ## Test Results
 The plot for Test predictions of model are shown below.
    <p> The Original Images were </p>
-   <br/>
-   <p align="center"> <img width=400 height= 175 src="https://github.com/UsamaI000/CamVid-Segmentation-Pytorch/blob/master/images/test_orig.png"> </p>
+   <p align="left"> <img width=400 height= 175 src="https://github.com/UsamaI000/CamVid-Segmentation-Pytorch/blob/master/images/test_orig.png"> </p>
    <br/>
    <p> The Original Masks were </p>
-   <br/>
-   <p align="center"> <img width=400 height= 150 src="https://github.com/UsamaI000/CamVid-Segmentation-Pytorch/blob/master/images/test_mask.png"> </p>
+   <p align="left"> <img width=400 height= 150 src="https://github.com/UsamaI000/CamVid-Segmentation-Pytorch/blob/master/images/test_mask.png"> </p>
    <br/>
    <p> The Predicted Masks were </p>
-   <br/>
-   <p align="center"> <img width=400 height= 150 src="https://github.com/UsamaI000/CamVid-Segmentation-Pytorch/blob/master/images/test_pred.png"> </p>
+   <p align="left"> <img width=400 height= 150 src="https://github.com/UsamaI000/CamVid-Segmentation-Pytorch/blob/master/images/test_pred.png"> </p>
    
    
