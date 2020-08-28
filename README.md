@@ -32,7 +32,7 @@ Following configurations were used for final model training.
 ## Training Results
 The plot for Training of model is shown below.
    <p> The Loss Curve during Training </p>
-   <p align="center"> <img width=500 height= 200 src="https://github.com/UsamaI000/CamVid-Segmentation-Pytorch/blob/master/images/loss.png"> </p>
+   <p align="left"> <img src="https://github.com/UsamaI000/CamVid-Segmentation-Pytorch/blob/master/images/loss.png"> </p>
    <p> The Original Images were </p>
    <p align="left"> <img width=350 height= 120 src="https://github.com/UsamaI000/CamVid-Segmentation-Pytorch/blob/master/images/train_orig.png"> </p>
    <p> The Original Masks were </p>
