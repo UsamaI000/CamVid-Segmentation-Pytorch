@@ -34,11 +34,11 @@ The plot for Training of model is shown below.
    <p> The Loss Curve during Training </p>
    <p align="left"> <img src="https://github.com/UsamaI000/CamVid-Segmentation-Pytorch/blob/master/images/loss.png"> </p>
    <p> The Original Images were </p>
-   <p align="left"> <img width=350 height= 120 src="https://github.com/UsamaI000/CamVid-Segmentation-Pytorch/blob/master/images/train_orig.png"> </p>
+   <p align="left"> <img width=400 height= 120 src="https://github.com/UsamaI000/CamVid-Segmentation-Pytorch/blob/master/images/train_orig.png"> </p>
    <p> The Original Masks were </p>
-   <p align="left"> <img width=350 height= 120 src="https://github.com/UsamaI000/CamVid-Segmentation-Pytorch/blob/master/images/train_mask.png"> </p>
+   <p align="left"> <img width=400 height= 120 src="https://github.com/UsamaI000/CamVid-Segmentation-Pytorch/blob/master/images/train_mask.png"> </p>
    <p> The Predicted Masks were </p>
-   <p align="left"> <img width=350 height= 120 src="https://github.com/UsamaI000/CamVid-Segmentation-Pytorch/blob/master/images/train_pred.png"> </p>
+   <p align="left"> <img width=400 height= 120 src="https://github.com/UsamaI000/CamVid-Segmentation-Pytorch/blob/master/images/train_pred.png"> </p>
    
 
 ## Test Results
