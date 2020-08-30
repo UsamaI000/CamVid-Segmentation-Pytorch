@@ -23,7 +23,7 @@ Note that unlike the classifcation tasks, the expected output in semantic segmen
 
 ## Training Setup
 Following configurations were used for final model training.
-  - Batch Size: 4
+  - Batch Size: 8
   - Learning rate: 0.0005
   - Optimizer: SGD
   - Loss: Focal Loss
@@ -34,11 +34,11 @@ The plot for Training of model is shown below.
    <p> The Loss Curve during Training </p>
    <p align="left"> <img src="https://github.com/UsamaI000/CamVid-Segmentation-Pytorch/blob/master/images/loss.png"> </p>
    <p> The Original Images were </p>
-   <p align="left"> <img width=400 height= 120 src="https://github.com/UsamaI000/CamVid-Segmentation-Pytorch/blob/master/images/train_orig.png"> </p>
+   <p align="left"> <img width=450 height= 120 src="https://github.com/UsamaI000/CamVid-Segmentation-Pytorch/blob/master/images/train_orig.png"> </p>
    <p> The Original Masks were </p>
-   <p align="left"> <img width=400 height= 120 src="https://github.com/UsamaI000/CamVid-Segmentation-Pytorch/blob/master/images/train_mask.png"> </p>
+   <p align="left"> <img width=450 height= 120 src="https://github.com/UsamaI000/CamVid-Segmentation-Pytorch/blob/master/images/train_mask.png"> </p>
    <p> The Predicted Masks were </p>
-   <p align="left"> <img width=400 height= 120 src="https://github.com/UsamaI000/CamVid-Segmentation-Pytorch/blob/master/images/train_pred.png"> </p>
+   <p align="left"> <img width=450 height= 120 src="https://github.com/UsamaI000/CamVid-Segmentation-Pytorch/blob/master/images/train_pred.png"> </p>
    
 
 ## Test Results
