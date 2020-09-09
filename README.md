@@ -51,6 +51,6 @@ The plot for Test predictions of model are shown below.
    <p align="left"> <img width=400 height= 150 src="https://github.com/UsamaI000/CamVid-Segmentation-Pytorch/blob/master/images/test_pred.png"> </p>
    
 ## Improvements
-    - mAP is to be implemented.
-    - Some other better loss like Dice Loss to be implemented.
+   - mAP is to be implemented.
+   - Some other loss function like "Dice Loss" to be implemented.
 
